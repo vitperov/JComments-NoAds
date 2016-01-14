@@ -211,7 +211,4 @@
 		<plugin plugin="jcomments" group="quickicon" />
 	</plugins>
 
-	<updateservers>
-		<server type="extension" priority="1" name="JComments Update Site">http://www.joomlatune.ru/updates/jcomments.xml</server>
-	</updateservers>
 </extension>
